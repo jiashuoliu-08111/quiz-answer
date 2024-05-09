@@ -1,0 +1,32 @@
+body {
+    background-color:antiquewhite;
+}
+
+#quiz-answer {
+    text-align: center;
+}
+
+#name {
+    border-bottom: 2px solid lightgreen;
+    padding-bottom: 1em;
+}
+
+#question-answers h3 {
+    margin-bottom: 2em;
+    border: 2px solid black;
+    padding: 20px;
+}
+
+#ending {
+    text-align: center;
+}
+
+.ending {
+    text-decoration: underline;
+    color: purple;
+}
+
+#email {
+    font-size: large;
+}
+
